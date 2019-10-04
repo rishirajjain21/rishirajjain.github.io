@@ -1,5 +1,4 @@
-# rishirajjain.github.io
-## White Panda task for SDE role.
+# WhitePanda task for SDE role.
 ## Framework used
 Polymer 3 by Google.
 
